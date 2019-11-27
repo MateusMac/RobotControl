@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Robot Control</string>
+
+    <string name="txt_conectar">Conectar</string>
+    <string name="txt_dispositivos_pareados">Dispositivos Pareados</string>
+    <string name="txt_desconectar">Desconectar</string>
+    <string name="txt_btnBoost">Boost</string>
+    <string name="txt_sons">Sons</string>
+    <string name="txt_animacoes">Animações</string>
+    <string name="txt_velocidade">Velocidade</string>
+    <string name="txt_titulo">Controle o Otto</string>
+    <string name="txt_conecte_otto">-- Clique no robo --</string>
+
+    <string name="msg_mac">MAC:</string>
+    <string name="msg_bluetooth_nao_ativado">O Bluetooth não foi ativado, favor ativá-lo</string>
+    <string name="msg_bluetooth_ativado">O Bluetooth foi ativado</string>
+    <string name="msg_sem_dispositivo_pareado">Não há dispositivo pareado, favor selecionar um</string>
+    <string name="msg_conectado_mac">Conectado ao MAC:</string>
+    <string name="msg_falha_ao_conectar">Falha ao conectar ao MAC:</string>
+    <string name="msg_falha_obter_mac">Falha ao obter o endereço MAC</string>
+    <string name="msg_nao_possui_bluetooth">É necessário Bluetooth para usar este aplicativo</string>
+    <string name="msg_bluetooth_desconectado">O Bluetooth foi desconectado</string>
+    <string name="msg_conecte_dispositivo">Agora, conecte ao dispositivo pareado</string>
+
+    <string name="desc_botao_conectar">Botão Conectar</string>
+    <string name="desc_botao_frente">Botão Frente</string>
+    <string name="desc_botao_direita">Botão Direita</string>
+    <string name="desc_botao_atras">Botão Atras</string>
+    <string name="desc_botao_esquerda">Botão Esquerda</string>
+    <string name="desc_logo">Logo Uninter</string>
+    <string name="desc_giro_esq">Botão Giro Esquerdo</string>
+    <string name="desc_giro_dir">Botão Giro Direito</string>
+    <string name="desc_som_1">Botão Som 1</string>
+    <string name="desc_som_2">Botão Som 2</string>
+    <string name="desc_som_3">Botão Som 3</string>
+    <string name="desc_som_4">Botão Som 4</string>
+    <string name="desc_som_5">Botão Som 5</string>
+    <string name="desc_danca_1">Botão Dança 1</string>
+    <string name="desc_danca_2">Botão Dança 2</string>
+    <string name="desc_danca_3">Botão Dança 3</string>
+    <string name="desc_danca_4">Botão Dança 4</string>
+    <string name="desc_danca_5">Botão Dança 5</string>
+    <string name="desc_mais">Botão Aumenta Velocidade</string>
+    <string name="desc_menos">Botão Diminui Velocidade</string>
+
+    <string name="info_" translatable="false">INFO: </string>
+</resources>
