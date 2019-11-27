@@ -37,7 +37,7 @@ public class ConexaoBluetooth extends BaseApp {
     private static final int SOLICITA_ATIVACAO = 1;
     private static final int SOLICITA_CONEXAO = 2;
     protected static final int MESSAGE_READ = 3;
-    private static final UUID MEU_UUID = UUID.fromString("00001101-0000-1000-8000-00805f9b34fb");
+    private static final UUID MEU_UUID = UUID.fromString("00001101-0000-1000-8000-00805F9B34FB");
 
     protected static BluetoothAdapter meuBluetoothAdapter = null;
     protected static BluetoothDevice meuDevice = null;
